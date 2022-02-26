@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloudy nevves from Bedford-Shire: concerning the late fights on Sunday and Munday last between the forces under the command of the Duke of Buckingham, and the forces commanded by Sir Michael Lievesey, and Col. Skroop. Likevvise the uumber [sic] that were slain, wounded, and taken prisoners, and the full particulars of each dayes action. VVith the declaration of the counties of Buckingham, Bedford, and Hartford-shire, concerning the Duke of Buckinghams taking up of arms for the King, and his further proceedings concerning his Majesty. Together with bloudy newes from Penbrook and Colchester, communicating the proceedings of Col. John Poyer, Col. Horton, the Lord Generall Fairfax, and Sir Charles Lucas.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76888</idno>
+            <idno type="STC">Wing B3262</idno>
+            <idno type="STC">Thomason E452_1</idno>
+            <idno type="STC">ESTC R204850</idno>
+            <idno type="EEBO-CITATION">99864308</idno>
+            <idno type="PROQUEST">99864308</idno>
+            <idno type="VID">161953</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76888)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161953)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E452[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloudy nevves from Bedford-Shire: concerning the late fights on Sunday and Munday last between the forces under the command of the Duke of Buckingham, and the forces commanded by Sir Michael Lievesey, and Col. Skroop. Likevvise the uumber [sic] that were slain, wounded, and taken prisoners, and the full particulars of each dayes action. VVith the declaration of the counties of Buckingham, Bedford, and Hartford-shire, concerning the Duke of Buckinghams taking up of arms for the King, and his further proceedings concerning his Majesty. Together with bloudy newes from Penbrook and Colchester, communicating the proceedings of Col. John Poyer, Col. Horton, the Lord Generall Fairfax, and Sir Charles Lucas.</title>
+                  <author>Buckingham, George Villiers, Duke of, 1628-1687.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London, to prevent mis-information, :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Postscript signed: J. Villers [George Villiers, 2nd Duke of Buckingham].</note>
+                  <note>Annotation on Thomason copy: "July 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161953:1" rendition="simple:additions"/>
+            <p>BLOUDY NEVVES FROM Bedford-Shire: Concerning the late Fights on <hi>Sunday</hi> and <hi>Munday</hi> laſt, be<g ref="char:EOLhyphen"/>tween the Forces under the Command of the Duke of <hi>Buckingham,</hi> and the Forces commanded by Sir <hi>Michael Lieveſey,</hi> and Col. <hi>Skroop.</hi>
+            </p>
+            <p>LIKEVVISE The number that were ſlain, wounded, and taken priſoners, and the full particulars of each dayes action. VVith the <hi>Declaration</hi> of the Counties of <hi>Buckingham, Bedford,</hi> and <hi>Hartford-ſhire,</hi> concerning the Duke of <hi>Buckinghams</hi> taking up of Arms for the <hi>KING,</hi> and his further proceedings concerning his Majeſty.</p>
+            <p>Together with bloudy Newes from <hi>Penbrook</hi> and <hi>Colcheſter,</hi> communicating the proceedings of Col. <hi>John Poyer,</hi> Col. <hi>Horton,</hi> the Lord Generall <hi>Fairfax,</hi> and Sir <hi>Charles Lucas.</hi>
+            </p>
+            <p>Printed at <hi>London,</hi> to prevent miſ-information, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161953:2"/>
+            <pb n="1" facs="tcp:161953:2"/>
+            <head>THE DECLARATION OF The Counties of <hi>Hartford, Buckingham,</hi> and <hi>Bedford<g ref="char:EOLhyphen"/>ſhire,</hi> concerning the Duke of <hi>Buckingham</hi> his raiſing of new Forces.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">V</seg>Pon the Duke of Buckinghams raiſing of new forces about Kingſton, Iver, Ux<g ref="char:EOLhyphen"/>bridge and other places, the well-affe<g ref="char:EOLhyphen"/>cted in thoſe parts and other Towns ad<g ref="char:EOLhyphen"/>jacent, had ſeverall meetings, and after ſome debate and conſultation thereup<g ref="char:EOLhyphen"/>on they unanimouſly declared 'and joyntly reſolved, That they would enter into an Engagement, to raiſe new forces, for the defence, ſafety, and preſervation of thoſe counties of Hartford, Bedford, and Buckingham,
+<pb n="2" facs="tcp:161953:3"/>and to oppſe all forces whatſoever, that ſhould endea<g ref="char:EOLhyphen"/>vour the obſtructing the peace thereof; and thereup<g ref="char:EOLhyphen"/>on reſolved to make Proclamation at ſeverall Market-townes within the ſaid Counties, to ſtir up the hearts of the People to joyn with them in this their Engage<g ref="char:EOLhyphen"/>ment, for the defence of King, Parliament, and King<g ref="char:EOLhyphen"/>dome, againſt the forces now raiſed under the Duke of Buckingham, the Earle of Holland, whoſe pretence and deſignes tends only to the involving of this King<g ref="char:EOLhyphen"/>dome in a more bloudy and deſparate War.</p>
+            <p>Yeſterday we received intelligence of the enemies being about St. <hi>Albanes,</hi> their number conſiſting of a<g ref="char:EOLhyphen"/>bout ſix hundred Horſe and Foot; from thence wee received information that about one of the clock they marched towards <hi>Lewton</hi> in <hi>Bedford-ſhire,</hi> and from thence they took their circumference towards <hi>Bedford</hi> town, not daring to ſtay long in a place, by reaſon of the cloſe purſuit of the Parliaments Forces, for they were no ſooner marched out of <hi>Newton,</hi> but certaine Scouts belonging to Sir <hi>Michael Lieveſey</hi> entred the town, took ſix troopers who were drinking at the ſign of the Princes Armes, and upon their entring into the Cham<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er where theſe Troopers were, found them very merry and drinking of Healths, with their ſwords drawn, and ſtuck into the Sealing of the Chamber, their Piſtols lying by them, and their Hats upon the Table; but by reaſon of their ſudden ſurprizall, they ſoon left their quaffing and drinking, and were forced to cry out (in the chief of their jollity) for mercy, and ſo yeeld<g ref="char:EOLhyphen"/>ed themſelves priſoners.</p>
+            <p>Upon their advance towards <hi>Bedford,</hi> Sir <hi>Michael Lieveſey's</hi> Forlorn of Horſe fell upon the Dukes Rear<g ref="char:EOLhyphen"/>guard
+<pb n="3" facs="tcp:161953:3"/>within two miles of <hi>Newton</hi> Townſ-end, and af<g ref="char:EOLhyphen"/>ter the exchange of ſeverall Piſtols, and a very hot diſ<g ref="char:EOLhyphen"/>pute, the Enemy were forced to retreat with the loſſe of fifteen men, ſix ſlain, and nine wounded, who were taken priſoners: All this were performed with the loſſe of five men.</p>
+            <p>The Parliaments Forces are now in purſuit of them towards <hi>Bedford,</hi> and Col-<hi>Skroop</hi> with his Regiment of Horſe are now joyned with Sir <hi>Michael Lieveſeyes</hi> Forces, which makes a very conſiderable party, and a<g ref="char:EOLhyphen"/>ble to ſubdue a far greater power then before ſpoken of.</p>
+            <p>This day a party of Major <hi>Gibbons</hi> Troop, who were in cloſe purſuit of the Enemy, fell upon ſome ſcattering Forces of the Lord Dukes in the towne of <hi>Marston,</hi> a Village ſome fourteen miles diſtant from <hi>Newton,</hi> in the Road towards <hi>Cambridg,</hi> &amp; after a ſharp conflict took 8 or 9 priſoners, &amp; killed three of them, the reſt made good their retreat towards <hi>Bedford.</hi> The well-affected of this County who aſſembled them<g ref="char:EOLhyphen"/>ſelves together in a poſture of War, have ſecured <hi>Hat<g ref="char:EOLhyphen"/>field</hi> houſe belonging to the Earl of <hi>Salisbury,</hi> to pre<g ref="char:EOLhyphen"/>vent the Deſigns of the Enemy, &amp; have placed a guard of Muſquetiers therein.</p>
+            <p>VVe expect a ſudden Engagement in theſe parts, between the <hi>Cavaliers</hi> and the <hi>Parliamentiers,</hi> but this County, and others adjacent, have declared, <hi>That they will hazard their lives and fortunes for the defence of King, Parliament, and Kingdome, againſt all oppoſition whatſiever.</hi>
+            </p>
+            <p>
+               <hi>From Pembroke we have received intelligence of the pro<g ref="char:EOLhyphen"/>ceedings of Lieu. Gen.</hi> Cromwel; <hi>the particulars whereof I ſhall refer you to the incloſed paper.</hi>
+            </p>
+            <pb n="4" facs="tcp:161953:4"/>
+            <p>
+               <hi>Worthy Sir,</hi> We have made ſeverall attempts a<g ref="char:EOLhyphen"/>gainſt the town, and ſtormed the walls in two or three places, fought with the enemy in the towne, worſted them, and beat them up to the Caſtle Wals, doing great execution throughout the town, and killing neer upon one hundred of the enemy in the purſuit. But a Major of Lieutenant General <hi>Cromwels</hi> not following with the Reſerve of Pikes and Muſquetiers, according to or<g ref="char:EOLhyphen"/>der, Major Generall <hi>Laughorn</hi> came in the Reare of them with a party of Horſe, and forced them to quit the town, out of which they were driven, and about 30 of our men killed, ſome few wounded, the reſt made good their retreat.</p>
+            <p>Of the enemies ſide it is ſuppoſed their loſſe were as many more, as appears by the confeſſion of divers who have ſince diſſerted that ſervice, and come in to the Lieut. Generall.</p>
+            <p>In this conflict Col. <hi>Horton</hi> behaved himſelfe with much gallantry, and Col. <hi>Okeyes</hi> Dragoones did excee<g ref="char:EOLhyphen"/>ding good ſervice, who purſued the enemy almoſt to the very walls, and made good their retreat with very little loſſe.</p>
+            <p>Our Batteries are now finiſhed, and our Ordnance planted againſt the Town and Caſtle, and have made ſeverall Breaches, and the Councell of War have re<g ref="char:EOLhyphen"/>ſolved to ſtorm it again.</p>
+            <p>The reaſon why the ſiege continues ſo long is the want of ſome great Guns and Mortar-Pieces, which came not untill within theſe few dayes down Severne, the wind having been long oppoſite to them.</p>
+            <p>Capt. <hi>Flower</hi> of Col. <hi>Deanes</hi> Regiment was lately wounded upon a ſtorme, and Major <hi>Grigs</hi> Lieutenant and Enſign ſlain, Captain <hi>Burges</hi> is wounded and very ſick.</p>
+            <pb n="5" facs="tcp:161953:4"/>
+            <p>All the inſurrections about you (I believe will not make us yeeld any other conditions then mercy to thoſe within, and in caſe before we have done, they chance to get never ſo great and impregnable an Army, they wil give us leave to have one bout with them before we be disbanded, wee that are here do not intend to give all loſt.</p>
+            <p>The Lieutenant Generall is alive and in health, and willing to fight for the liberties of <hi>England,</hi> as ever he did formerly.</p>
+            <p>
+               <hi>Tueſday</hi> laſt we gave the Town another ſtrong al<g ref="char:EOLhyphen"/>larum, 120. of <hi>Poyers</hi> men laid down their Arms, vow<g ref="char:EOLhyphen"/>ing never to take them up again, but by the importuni<g ref="char:EOLhyphen"/>ty of <hi>Poyer</hi> and <hi>Laughorn,</hi> telling them, if reliefe came not within four days, they would yeild, and they ſhould hang them, by which means they ingaged againe. We are informed, that they have not proviſions for four<g ref="char:EOLhyphen"/>teen dayes: wee expect every day that moſt of them come to us through want: they only have a little rain water and Bisket left: But its ſtill feared, that <hi>Poyer</hi> &amp; <hi>Laughorn,</hi> when they can hold out the Town no longer will betake themſelves to the Caſtle, and leave the reſt to mercy: if we get the Town, we doubt not to carry the Caſtle ſuddenly.</p>
+            <p>
+               <hi>Our Morter-pieces have plaid hard against the towne and done great execution, and hath batterd down many houſes, and killed at the leaſt</hi> 30. <hi>of the Enemy, as appeares by the confeſſion of two of</hi> Poyers <hi>men who came over the walls to us.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>From the Leaguer before</hi> Penbroke, <date>July 6. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="6" facs="tcp:161953:5"/>
+            <head>Poſtſcript.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>VPon the cloſe of theſe papers, we received an Expreſs from Colchester, which intimates, That upon Friday laſt the Forces in the town diſplaid their great Ordnance, which did ſomething annoy the Generals men at the works, whereupon the great Ordnance plaid againſt the town, &amp; fetched down the Battlements of ſeverall steeples, doing great execution. The Enemy made a ſalley out, but were forced to retreat with great loſse.</hi> Sir, <hi>by the next, I doubt not but to give you a ſpeedy account of the chief Oc<g ref="char:EOLhyphen"/>currences in theſe parts, and remain</hi>
+            </p>
+            <closer>
+               <signed>Your devoted Servant, J. Villers.</signed>
+               <dateline>
+                  <hi>Hartford</hi> 
+                  <date>10. July, 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
